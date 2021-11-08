@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @LOuhamza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ## <samp>Hello World!</samp> <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/earth.gif" width="22px">, I'm Ouhamza 👋
 
 
@@ -57,9 +51,9 @@
 
  
 <a href="https://github.com/ouhamzalhss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouhamzalhss&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOuhamza&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ouhamzalhss">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ouhamzalhss&show_icons=true&theme=light&line_height=27" alt="ouhamza's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LOuhamza&show_icons=true&theme=light&line_height=27" alt="ouhamza's github stats"/>
 </a>
 
